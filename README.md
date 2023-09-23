@@ -1,2 +1,2 @@
 # Jenkins-Email-Trigger By Karam Mannai
-Its about sending an email everytime i made a commit into this repo.
+It's about sending an email every time I make a commit to this repo.
